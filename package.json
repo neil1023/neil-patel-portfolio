@@ -1,0 +1,26 @@
+{
+  "name": "neil-patel-portfolio",
+  "version": "1.0.0",
+  "description": "Pure CSS Layout Examples ========================",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neil1023/neil-patel-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neil1023/neil-patel-portfolio/issues"
+  },
+  "homepage": "https://github.com/neil1023/neil-patel-portfolio#readme",
+  "dependencies": {
+    "responsive-slides": "^1.55.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.1.2",
+    "webpack": "^4.21.0"
+  }
+}
